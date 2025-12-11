@@ -27,7 +27,7 @@ A production-like yet fully local caching reverse proxy built in Go. This projec
 
 This project follows the principles of Clean Architecture to separate concerns and ensure testability.
 
-![image: Architecture Diagram](https://github.com/mikiasgoitom/Caching-proxy/doc/high-arch.png)
+![Architecture Diagram](https://raw.githubusercontent.com/mikiasgoitom/Caching-proxy/main/doc/high-arch.png)
 
 ## Local Development
 
